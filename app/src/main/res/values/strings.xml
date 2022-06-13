@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ItalianCuisineApp</string>
+    <string name="sign_in_title">Login</string>
+    <string name="sign_up_title">Sign up</string>
+    <string name="sign_in_forget">Forget Password?</string>
+    <string name="forgot_title">Forgot?</string>
+    <string name="sign_in_subtitle">Don\'t have an account?</string>
+    <string name="sign_up_subtitle">Already has account?</string>
+    <string name="forgot_subtitle">We are so sorry</string>
+    <string name="sign_in_action">Sign up</string>
+    <string name="sign_up_action">Sign in</string>
+    <string name="email_hint">Email adress</string>
+    <string name="password_hint">Password</string>
+    <string name="remember_check_title">Remember me</string>
+    <string name="action_login">Log In</string>
+    <string name="copyright_button">Copyright © 2022 Sergey Matju</string>
+</resources>
